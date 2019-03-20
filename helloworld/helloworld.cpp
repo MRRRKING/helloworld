@@ -2,8 +2,8 @@
 #include<stdlib.h>
 int main() {
 	printf("helloworld\n");
-	getchar();
-
+	char a = getchar();
+	printf("%c",a);
 	system("pause");
 	return 0;
 }
