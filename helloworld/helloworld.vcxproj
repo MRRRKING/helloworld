@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.cpp" />
+    <ClCompile Include="random.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="random.h" />
